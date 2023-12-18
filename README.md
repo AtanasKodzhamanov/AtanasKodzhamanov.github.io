@@ -1,5 +1,3 @@
-# www.kodzhamanov.com
+# Portfolio website
 
-This is a portfolio website that contains information about my educational background, work experience and coding projects. 
-
-Built with ReactJS.
+Old version of my portfolio website.
